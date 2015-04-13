@@ -22,4 +22,4 @@ Test procedures:
 7. commit changes 
 	- commit message "my first success"
 8. push changes to branch "develop"
-
+WAZZUP GUYS!
